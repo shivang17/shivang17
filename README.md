@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivang - @shivang17
-- 👀 I’m interested in Web Design, Web Development, and Understanding Deep Philosophy :P
+- 👀 I’m interested in Web Design, Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms using JavaScript, Responsive Web Design.
-- 💞️ I’m looking to collaborate on Data Structures, Coding Interview Preparation, Anything related to cosmos (:P)
+- 💞️ I’m looking to collaborate on Data Structures, Coding Interview Preparation.
 - 📫 How to reach me - shivang170695@gmail.com
 
 <!---
